@@ -1,0 +1,17 @@
+body {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 20px;
+  background-color: #111;
+  color: #aaaaaa;
+  font-family: "Montserrat", sans-serif;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+/*# sourceMappingURL=/app.5cec07dd.css.map */
